@@ -87,6 +87,6 @@ src/
         └── Footer.tsx
 ```
 
-## Imagery
+## Imager
 
 All imagery is loaded from [Unsplash](https://unsplash.com)'s public CDN — no API key required, but feel free to swap with your own assets in `src/data/site.ts`.
